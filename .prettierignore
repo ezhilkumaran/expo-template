@@ -1,0 +1,9 @@
+# ignore prettier on following files
+package.json
+package-lock.json
+app.json
+eas.json
+tsconfig.json
+babel.config.json
+expo-env.d.ts
+eslintrc.js
