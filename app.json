@@ -34,15 +34,15 @@
     },
     "extra": {
       "eas": {
-        "projectId": "62cbd7db-41cc-461c-92a3-92296d570d42"
+        "projectId": "12345678-1234-1234-1234-123456789012"
       }
     },
-    "owner": "ezhilkumaran",
+    "owner": "expo",
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/62cbd7db-41cc-461c-92a3-92296d570d42"
+      "url": "https://u.expo.dev/12345678-1234-1234-1234-123456789012"
     }
   }
 }
